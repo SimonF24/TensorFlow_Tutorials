@@ -3,14 +3,13 @@ Augmented_Transfer_Model
 Bidirectional_GRU
 Bidirectional_LSTM
 Bidirectional_Simple_RNN
+CharacterLSTM
 CNN
 FFNN
 GRU
-hp_tuning
 LSTM
 RNN
 secrets.json
 Simple_RNN
-tensorboard
 Transfer_Model
-*.h5
+WordLSTM
