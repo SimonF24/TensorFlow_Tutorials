@@ -3,7 +3,7 @@ Augmented_Transfer_Model
 Bidirectional_GRU
 Bidirectional_LSTM
 Bidirectional_Simple_RNN
-CharacterLSTM
+Character_LSTM
 CNN
 FFNN
 GRU
@@ -12,4 +12,4 @@ RNN
 secrets.json
 Simple_RNN
 Transfer_Model
-WordLSTM
+Word_LSTM
