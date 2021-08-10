@@ -1,15 +1,2 @@
-Augmented_CNN
-Augmented_Transfer_Model
-Bidirectional_GRU
-Bidirectional_LSTM
-Bidirectional_Simple_RNN
-Character_LSTM
-CNN
-FFNN
-GRU
-LSTM
-RNN
+models
 secrets.json
-Simple_RNN
-Transfer_Model
-Word_LSTM
