@@ -1,4 +1,6 @@
+checkpoints
 images
 models
 secrets.json
-vocab.txt
+vocab
+__pycache__

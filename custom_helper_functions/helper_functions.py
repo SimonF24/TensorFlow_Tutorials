@@ -106,3 +106,8 @@ def show_all_jupyter_output():
     the last output
     '''
     InteractiveShell.ast_node_interactivity = "all"
+
+def write_vocab_file(filepath, vocab):
+    with open('vocab\\'+filepath, 'w') as f:
+        for token in vocab:
+            print(token, file=f)
